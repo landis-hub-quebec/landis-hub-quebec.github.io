@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Landis Hub Québec # Website name
+baseurl: 'https://landis-hub-quebec.github.io/' # Website URL
+copyright: '© {year} Clément Hardy' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
