@@ -1,4 +1,4 @@
-🇫🇷
+# Instructions 🇫🇷
 
 Ce repository contient le contenu du site du LANDIS Hub Québec.
 
@@ -12,7 +12,7 @@ Pour l'éditer et le mettre à jour, suivre les instructions suivantes :
 6. Lorsque l'édition est terminée, fermer le serveur hugo (`Ctrl + C` dans le Powershell ou terminal), puis lancer la commande `hugo` pour re-génerer les données du site
 7. Utiliser Git (out GitAhead, ou GitKraken) pour faire un nouveau commit localement, puis pour l'envoyer sur le remote sur GitHub.
 
-🇨🇦
+# Instructions 🇨🇦
 
 This repository contains the content of the LANDIS Hub Quebec site.
 
