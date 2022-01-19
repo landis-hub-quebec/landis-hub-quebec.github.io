@@ -16,7 +16,7 @@ design:
 
 GitHub est une plate-forme centrale dans le développement de logiciels aujourd'hui, mais elle est aussi très efficace pour partager et collaborer sur des données de recherche. Elle est actuellement la plate-forme sur laquelle vous pourrez parler et échanger avec le reste du groupe LANDIS Hub Québec !
 
-## **2️⃣ Rendez vous sur le [*repository* d'accueil du groupe](https://github.com/landis-hub-quebec/hub)**
+## **2️⃣ Rendez vous sur le [*repository* d'accueil du groupe](https://github.com/landis-hub-quebec/accueil)**
 
 Sur GitHub, un *repository* (ou "dépôt" en français) est un lieu ou l'on dépose les fichiers liés à un projet particulier, et ou il est possible de discuter ensemble de celui-ci. Le *repository* d'accueil du LANDIS Hub Québec est l'endroit indiqué pour venir vous présenter, ainsi que pour prendre conscience des discussions existantes entre utilisateurs.ices.
 
