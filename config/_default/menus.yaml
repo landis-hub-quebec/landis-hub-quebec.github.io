@@ -4,6 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name: A propos de nous
+    url: https://landis-hub-quebec.github.io/#a-propos
+    weight: 10
+  - name: Nous rejoindre
+    url: https://landis-hub-quebec.github.io/#nous-rejoindre
+    weight: 20
   - name: Contact
     url: contact
     weight: 60

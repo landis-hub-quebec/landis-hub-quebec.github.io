@@ -14,7 +14,7 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
+org_name: 'LANDIS Hub Québec'
 description: Le LANDIS Hub Quebec est un groupe de chercheurs.euses utilisant le modèle spatialement explicite LANDIS ou LANDIS-II, ainsi que d'autres modèles similaires (SPaDES). Le groupe existe pour faciliter et organiser les échanges autour de l'utilisation de ces modèles dans la province du Québec.
 twitter: ''
 
@@ -28,10 +28,10 @@ main_menu:
   enable: true
   align: r
   show_logo: true
-  show_language: false
+  show_language: true
   show_day_night: true
   show_search: true
-  highlight_active_link: false
+  highlight_active_link: true
 
 # Localization
 
