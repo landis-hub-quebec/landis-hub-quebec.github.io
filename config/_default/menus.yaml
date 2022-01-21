@@ -11,5 +11,5 @@ main:
     url: https://landis-hub-quebec.github.io/#nous-rejoindre
     weight: 20
   - name: Contact
-    url: contact
+    url: https://landis-hub-quebec.github.io/#contact
     weight: 60

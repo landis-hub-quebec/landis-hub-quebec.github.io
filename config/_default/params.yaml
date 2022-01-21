@@ -6,7 +6,7 @@
 # Appearance
 
 theme: forest
-day_night: false
+day_night: true
 font: native
 font_size: L
 
