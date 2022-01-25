@@ -13,9 +13,13 @@ design:
   columns: '1'
 ---
 
+Le LANDIS Hub Québec travaille sur un grand nombre de sujets en interaction les un avec les autres.
+
+Gràce à notre carte basée sur la littérature liés au modèle LANDIS-II, vous pouvez voir comment ces sujets se lient les uns aux autres !
+
 <iframe
   allowfullscreen="true"
-  src="https://app.vosviewer.com/?json=https://raw.githubusercontent.com/landis-hub-quebec/landis-hub-quebec.github.io/master/static/uploads/keywords-Yan-Orcid.json&simple_ui=true"
+  src="https://app.vosviewer.com/?json=https://raw.githubusercontent.com/landis-hub-quebec/landis-hub-quebec.github.io/master/static/uploads/biblio_LANDISHub.json&simple_ui=true"
   width="100%"
   height="100%"
   style="border: 1px solid #ddd; max-width: 1200px; min-height: 500px"

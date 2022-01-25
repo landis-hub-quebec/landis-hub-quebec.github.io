@@ -1,0 +1,7009 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "age",
+				"x": -0.2804,
+				"y": -0.2398,
+				"cluster": 2,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 692.0000,
+					"Occurrences": 73.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.2603,
+					"Avg. citations": 26.9315,
+					"Avg. norm. citations": 0.8440
+				}
+			},
+			{
+				"id": 2,
+				"label": "anthropogenic disturbance",
+				"x": 0.5479,
+				"y": 0.2054,
+				"cluster": 1,
+				"weights": {
+					"Links": 46.0000,
+					"Total link strength": 642.0000,
+					"Occurrences": 40.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.2500,
+					"Avg. citations": 31.6750,
+					"Avg. norm. citations": 1.2409
+				}
+			},
+			{
+				"id": 3,
+				"label": "application",
+				"x": 0.6505,
+				"y": -0.2227,
+				"cluster": 1,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 601.0000,
+					"Occurrences": 55.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3273,
+					"Avg. citations": 22.0545,
+					"Avg. norm. citations": 1.1597
+				}
+			},
+			{
+				"id": 4,
+				"label": "approach",
+				"x": 0.0615,
+				"y": 0.0022,
+				"cluster": 4,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1632.0000,
+					"Occurrences": 154.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.0130,
+					"Avg. citations": 31.9481,
+					"Avg. norm. citations": 1.4482
+				}
+			},
+			{
+				"id": 5,
+				"label": "bioenergy",
+				"x": -0.5218,
+				"y": -0.7704,
+				"cluster": 2,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 451.0000,
+					"Occurrences": 43.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.1860,
+					"Avg. citations": 13.6744,
+					"Avg. norm. citations": 0.6907
+				}
+			},
+			{
+				"id": 6,
+				"label": "biomass",
+				"x": -0.2994,
+				"y": -0.4198,
+				"cluster": 2,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 1498.0000,
+					"Occurrences": 138.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3623,
+					"Avg. citations": 15.4928,
+					"Avg. norm. citations": 0.7087
+				}
+			},
+			{
+				"id": 7,
+				"label": "boreal caribou",
+				"x": 1.1896,
+				"y": -0.1968,
+				"cluster": 1,
+				"weights": {
+					"Links": 34.0000,
+					"Total link strength": 476.0000,
+					"Occurrences": 30.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7000,
+					"Avg. citations": 11.7667,
+					"Avg. norm. citations": 0.8339
+				}
+			},
+			{
+				"id": 8,
+				"label": "caribou",
+				"x": 1.0767,
+				"y": -0.0691,
+				"cluster": 1,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 1409.0000,
+					"Occurrences": 110.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8364,
+					"Avg. citations": 21.5364,
+					"Avg. norm. citations": 0.8643
+				}
+			},
+			{
+				"id": 9,
+				"label": "change",
+				"x": -0.6550,
+				"y": 0.2758,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 4071.0000,
+					"Occurrences": 312.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8750,
+					"Avg. citations": 30.0096,
+					"Avg. norm. citations": 1.3797
+				}
+			},
+			{
+				"id": 10,
+				"label": "climate",
+				"x": -0.9013,
+				"y": 0.1375,
+				"cluster": 3,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 2487.0000,
+					"Occurrences": 162.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.8086,
+					"Avg. citations": 21.4630,
+					"Avg. norm. citations": 1.3368
+				}
+			},
+			{
+				"id": 11,
+				"label": "climate change",
+				"x": -0.8733,
+				"y": 0.0679,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 2713.0000,
+					"Occurrences": 197.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.7005,
+					"Avg. citations": 24.1168,
+					"Avg. norm. citations": 1.3068
+				}
+			},
+			{
+				"id": 12,
+				"label": "conservation",
+				"x": 0.5867,
+				"y": -0.3169,
+				"cluster": 1,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 835.0000,
+					"Occurrences": 59.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8814,
+					"Avg. citations": 23.7966,
+					"Avg. norm. citations": 0.9250
+				}
+			},
+			{
+				"id": 13,
+				"label": "data",
+				"x": 0.1917,
+				"y": -0.2282,
+				"cluster": 1,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1996.0000,
+					"Occurrences": 223.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.2825,
+					"Avg. citations": 24.3139,
+					"Avg. norm. citations": 0.9489
+				}
+			},
+			{
+				"id": 14,
+				"label": "density",
+				"x": 0.7665,
+				"y": -0.2294,
+				"cluster": 1,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 1356.0000,
+					"Occurrences": 136.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.9412,
+					"Avg. citations": 19.7721,
+					"Avg. norm. citations": 0.8253
+				}
+			},
+			{
+				"id": 15,
+				"label": "development",
+				"x": 0.0623,
+				"y": -0.3854,
+				"cluster": 2,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 853.0000,
+					"Occurrences": 76.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.9211,
+					"Avg. citations": 22.4342,
+					"Avg. norm. citations": 1.0400
+				}
+			},
+			{
+				"id": 16,
+				"label": "diversity",
+				"x": -0.1993,
+				"y": 0.7383,
+				"cluster": 4,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 1166.0000,
+					"Occurrences": 109.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.7982,
+					"Avg. citations": 25.7248,
+					"Avg. norm. citations": 1.3872
+				}
+			},
+			{
+				"id": 17,
+				"label": "drought",
+				"x": -0.1746,
+				"y": 0.8765,
+				"cluster": 4,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 800.0000,
+					"Occurrences": 46.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2019.0435,
+					"Avg. citations": 10.5217,
+					"Avg. norm. citations": 0.9094
+				}
+			},
+			{
+				"id": 18,
+				"label": "ecosystem",
+				"x": -0.4438,
+				"y": 0.1471,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1782.0000,
+					"Occurrences": 158.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.9684,
+					"Avg. citations": 27.1329,
+					"Avg. norm. citations": 1.3197
+				}
+			},
+			{
+				"id": 19,
+				"label": "fire",
+				"x": -0.4789,
+				"y": -0.4234,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 3016.0000,
+					"Occurrences": 318.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.7044,
+					"Avg. citations": 30.5063,
+					"Avg. norm. citations": 1.1090
+				}
+			},
+			{
+				"id": 20,
+				"label": "fire activity",
+				"x": -1.2930,
+				"y": -0.2225,
+				"cluster": 3,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 618.0000,
+					"Occurrences": 42.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0476,
+					"Avg. citations": 29.5476,
+					"Avg. norm. citations": 1.1515
+				}
+			},
+			{
+				"id": 21,
+				"label": "fire frequency",
+				"x": -0.2490,
+				"y": -0.8829,
+				"cluster": 2,
+				"weights": {
+					"Links": 37.0000,
+					"Total link strength": 431.0000,
+					"Occurrences": 43.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2010.4884,
+					"Avg. citations": 57.1163,
+					"Avg. norm. citations": 1.3427
+				}
+			},
+			{
+				"id": 22,
+				"label": "forest composition",
+				"x": -0.8464,
+				"y": -0.3606,
+				"cluster": 2,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 600.0000,
+					"Occurrences": 49.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.5306,
+					"Avg. citations": 31.0612,
+					"Avg. norm. citations": 0.9593
+				}
+			},
+			{
+				"id": 23,
+				"label": "forest management",
+				"x": -0.1265,
+				"y": -0.2631,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 1312.0000,
+					"Occurrences": 106.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.8585,
+					"Avg. citations": 21.8396,
+					"Avg. norm. citations": 0.9201
+				}
+			},
+			{
+				"id": 24,
+				"label": "growth",
+				"x": -0.5575,
+				"y": 0.3417,
+				"cluster": 3,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 1885.0000,
+					"Occurrences": 193.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3938,
+					"Avg. citations": 22.7150,
+					"Avg. norm. citations": 1.2346
+				}
+			},
+			{
+				"id": 25,
+				"label": "habitat",
+				"x": 0.5540,
+				"y": -0.0665,
+				"cluster": 1,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 1863.0000,
+					"Occurrences": 149.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.3087,
+					"Avg. citations": 17.6309,
+					"Avg. norm. citations": 0.8579
+				}
+			},
+			{
+				"id": 26,
+				"label": "harvest",
+				"x": 0.2525,
+				"y": 0.5477,
+				"cluster": 4,
+				"weights": {
+					"Links": 47.0000,
+					"Total link strength": 1016.0000,
+					"Occurrences": 60.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0167,
+					"Avg. citations": 27.9000,
+					"Avg. norm. citations": 1.1474
+				}
+			},
+			{
+				"id": 27,
+				"label": "harvesting",
+				"x": -0.2482,
+				"y": -0.0492,
+				"cluster": 2,
+				"weights": {
+					"Links": 51.0000,
+					"Total link strength": 1204.0000,
+					"Occurrences": 97.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2012.9072,
+					"Avg. citations": 47.5052,
+					"Avg. norm. citations": 1.3218
+				}
+			},
+			{
+				"id": 28,
+				"label": "human activity",
+				"x": 0.4590,
+				"y": -0.4464,
+				"cluster": 1,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 501.0000,
+					"Occurrences": 34.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.7647,
+					"Avg. citations": 30.3824,
+					"Avg. norm. citations": 1.0346
+				}
+			},
+			{
+				"id": 29,
+				"label": "intensity",
+				"x": 0.4240,
+				"y": 0.5114,
+				"cluster": 4,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 708.0000,
+					"Occurrences": 55.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.1091,
+					"Avg. citations": 22.3455,
+					"Avg. norm. citations": 0.9952
+				}
+			},
+			{
+				"id": 30,
+				"label": "mortality",
+				"x": 0.4356,
+				"y": 0.7381,
+				"cluster": 4,
+				"weights": {
+					"Links": 46.0000,
+					"Total link strength": 1400.0000,
+					"Occurrences": 100.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.7200,
+					"Avg. citations": 18.3900,
+					"Avg. norm. citations": 0.7499
+				}
+			},
+			{
+				"id": 31,
+				"label": "natural disturbance",
+				"x": -0.6533,
+				"y": -0.2928,
+				"cluster": 2,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 970.0000,
+					"Occurrences": 71.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.4085,
+					"Avg. citations": 37.8873,
+					"Avg. norm. citations": 1.3154
+				}
+			},
+			{
+				"id": 32,
+				"label": "paper",
+				"x": -0.2824,
+				"y": -0.5924,
+				"cluster": 2,
+				"weights": {
+					"Links": 39.0000,
+					"Total link strength": 322.0000,
+					"Occurrences": 33.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.1212,
+					"Avg. citations": 60.6061,
+					"Avg. norm. citations": 1.0472
+				}
+			},
+			{
+				"id": 33,
+				"label": "population",
+				"x": 0.9184,
+				"y": 0.1490,
+				"cluster": 1,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 1676.0000,
+					"Occurrences": 154.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.2922,
+					"Avg. citations": 16.4805,
+					"Avg. norm. citations": 0.7275
+				}
+			},
+			{
+				"id": 34,
+				"label": "productivity",
+				"x": -0.3553,
+				"y": 0.4938,
+				"cluster": 4,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 1461.0000,
+					"Occurrences": 118.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.4831,
+					"Avg. citations": 47.9492,
+					"Avg. norm. citations": 1.0922
+				}
+			},
+			{
+				"id": 35,
+				"label": "range",
+				"x": 0.3621,
+				"y": -0.2949,
+				"cluster": 1,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1589.0000,
+					"Occurrences": 134.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.7164,
+					"Avg. citations": 26.8731,
+					"Avg. norm. citations": 0.9787
+				}
+			},
+			{
+				"id": 36,
+				"label": "rangifer tarandus caribou",
+				"x": 1.2764,
+				"y": -0.0715,
+				"cluster": 1,
+				"weights": {
+					"Links": 40.0000,
+					"Total link strength": 524.0000,
+					"Occurrences": 35.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.4286,
+					"Avg. citations": 16.9714,
+					"Avg. norm. citations": 0.7365
+				}
+			},
+			{
+				"id": 37,
+				"label": "rcp",
+				"x": -1.2390,
+				"y": 0.1348,
+				"cluster": 3,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 766.0000,
+					"Occurrences": 36.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2018.9167,
+					"Avg. citations": 16.7500,
+					"Avg. norm. citations": 1.3042
+				}
+			},
+			{
+				"id": 38,
+				"label": "resilience",
+				"x": -0.4481,
+				"y": 0.7836,
+				"cluster": 4,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 962.0000,
+					"Occurrences": 68.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2017.4412,
+					"Avg. citations": 20.3235,
+					"Avg. norm. citations": 1.2668
+				}
+			},
+			{
+				"id": 39,
+				"label": "risk",
+				"x": 0.4996,
+				"y": 0.0473,
+				"cluster": 1,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 1451.0000,
+					"Occurrences": 117.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.0855,
+					"Avg. citations": 21.7778,
+					"Avg. norm. citations": 1.1754
+				}
+			},
+			{
+				"id": 40,
+				"label": "road",
+				"x": 1.1696,
+				"y": -0.0160,
+				"cluster": 1,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 836.0000,
+					"Occurrences": 62.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.3871,
+					"Avg. citations": 17.3226,
+					"Avg. norm. citations": 0.7107
+				}
+			},
+			{
+				"id": 41,
+				"label": "scale",
+				"x": 0.3085,
+				"y": 0.1150,
+				"cluster": 1,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 2279.0000,
+					"Occurrences": 203.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0493,
+					"Avg. citations": 28.0690,
+					"Avg. norm. citations": 1.3488
+				}
+			},
+			{
+				"id": 42,
+				"label": "scenario",
+				"x": -0.7120,
+				"y": 0.1803,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 1835.0000,
+					"Occurrences": 138.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6377,
+					"Avg. citations": 16.8333,
+					"Avg. norm. citations": 0.9260
+				}
+			},
+			{
+				"id": 43,
+				"label": "simulation",
+				"x": -0.7707,
+				"y": -0.1584,
+				"cluster": 3,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 725.0000,
+					"Occurrences": 59.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2011.4237,
+					"Avg. citations": 23.5763,
+					"Avg. norm. citations": 0.9074
+				}
+			},
+			{
+				"id": 44,
+				"label": "soil",
+				"x": -0.1665,
+				"y": 0.2461,
+				"cluster": 2,
+				"weights": {
+					"Links": 46.0000,
+					"Total link strength": 939.0000,
+					"Occurrences": 93.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.9355,
+					"Avg. citations": 42.2473,
+					"Avg. norm. citations": 1.3450
+				}
+			},
+			{
+				"id": 45,
+				"label": "temperature",
+				"x": -0.7496,
+				"y": 0.4778,
+				"cluster": 3,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 723.0000,
+					"Occurrences": 69.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.5362,
+					"Avg. citations": 48.0580,
+					"Avg. norm. citations": 1.5344
+				}
+			},
+			{
+				"id": 46,
+				"label": "treatment",
+				"x": 0.6223,
+				"y": 0.1595,
+				"cluster": 1,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 688.0000,
+					"Occurrences": 68.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.9265,
+					"Avg. citations": 9.8382,
+					"Avg. norm. citations": 0.4477
+				}
+			},
+			{
+				"id": 47,
+				"label": "tree",
+				"x": -0.4125,
+				"y": -0.0157,
+				"cluster": 2,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 1991.0000,
+					"Occurrences": 233.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.5837,
+					"Avg. citations": 19.7039,
+					"Avg. norm. citations": 0.8790
+				}
+			},
+			{
+				"id": 48,
+				"label": "tree species",
+				"x": -0.8400,
+				"y": 0.5465,
+				"cluster": 3,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 781.0000,
+					"Occurrences": 58.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.6379,
+					"Avg. citations": 22.6207,
+					"Avg. norm. citations": 1.1390
+				}
+			},
+			{
+				"id": 49,
+				"label": "uncertainty",
+				"x": -0.5583,
+				"y": -0.3458,
+				"cluster": 3,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 990.0000,
+					"Occurrences": 94.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.5106,
+					"Avg. citations": 32.3723,
+					"Avg. norm. citations": 1.5390
+				}
+			},
+			{
+				"id": 50,
+				"label": "use",
+				"x": 0.6476,
+				"y": -0.0859,
+				"cluster": 1,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 1348.0000,
+					"Occurrences": 118.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2014.0678,
+					"Avg. citations": 21.3220,
+					"Avg. norm. citations": 0.9953
+				}
+			},
+			{
+				"id": 51,
+				"label": "variability",
+				"x": -0.1220,
+				"y": -0.7060,
+				"cluster": 2,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 989.0000,
+					"Occurrences": 93.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2013.6989,
+					"Avg. citations": 34.1398,
+					"Avg. norm. citations": 1.2742
+				}
+			},
+			{
+				"id": 52,
+				"label": "wolf",
+				"x": 1.0778,
+				"y": 0.4224,
+				"cluster": 1,
+				"weights": {
+					"Links": 35.0000,
+					"Total link strength": 652.0000,
+					"Occurrences": 43.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2015.8837,
+					"Avg. citations": 23.3488,
+					"Avg. norm. citations": 0.9328
+				}
+			},
+			{
+				"id": 53,
+				"label": "woodland caribou",
+				"x": 1.3173,
+				"y": 0.0266,
+				"cluster": 1,
+				"weights": {
+					"Links": 40.0000,
+					"Total link strength": 613.0000,
+					"Occurrences": 37.0000
+				},
+				"scores": {
+					"Avg. pub. year": 2016.5135,
+					"Avg. citations": 16.5676,
+					"Avg. norm. citations": 0.7735
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 4,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 6,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 9,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 10,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 11,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 12,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 13,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 14,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 15,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 16,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 18,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 19,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 20,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 22,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 23,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 24,
+				"strength": 50.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 25,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 26,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 27,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 30,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 31,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 33,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 34,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 35,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 36,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 37,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 39,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 41,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 42,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 44,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 46,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 47,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 48,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 50,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 51,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 53,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 8,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 9,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 10,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 11,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 12,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 13,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 14,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 15,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 16,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 18,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 19,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 22,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 23,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 25,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 26,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 27,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 28,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 29,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 31,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 33,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 34,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 35,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 36,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 38,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 39,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 40,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 41,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 42,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 43,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 44,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 47,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 48,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 50,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 51,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 52,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 53,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 4,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 6,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 7,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 8,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 11,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 12,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 13,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 14,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 15,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 17,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 18,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 21,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 23,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 24,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 25,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 26,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 27,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 28,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 30,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 32,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 33,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 34,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 35,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 36,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 39,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 40,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 41,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 42,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 43,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 46,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 47,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 49,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 50,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 51,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 52,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 53,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 6,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 8,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 9,
+				"strength": 104.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 10,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 11,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 12,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 13,
+				"strength": 132.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 14,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 15,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 16,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 17,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 18,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 19,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 21,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 22,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 23,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 24,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 25,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 26,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 27,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 28,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 29,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 30,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 31,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 32,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 33,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 34,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 35,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 36,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 37,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 38,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 39,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 40,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 41,
+				"strength": 84.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 42,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 43,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 44,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 45,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 46,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 47,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 48,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 49,
+				"strength": 79.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 50,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 51,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 52,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 53,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 6,
+				"strength": 81.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 10,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 11,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 13,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 15,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 18,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 19,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 23,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 24,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 27,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 29,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 31,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 32,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 34,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 35,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 39,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 41,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 42,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 47,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 49,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 50,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 51,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 9,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 10,
+				"strength": 80.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 11,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 12,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 13,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 14,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 15,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 17,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 18,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 19,
+				"strength": 73.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 20,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 22,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 23,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 24,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 25,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 26,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 27,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 29,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 30,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 31,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 32,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 34,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 35,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 36,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 37,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 39,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 41,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 42,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 43,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 44,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 46,
+				"strength": 69.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 47,
+				"strength": 104.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 48,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 49,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 50,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 51,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 8,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 9,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 10,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 11,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 12,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 13,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 14,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 15,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 18,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 19,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 23,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 25,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 26,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 27,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 30,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 31,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 33,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 34,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 35,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 36,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 39,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 40,
+				"strength": 50.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 41,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 42,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 50,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 52,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 53,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 9,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 10,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 11,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 12,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 13,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 14,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 15,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 16,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 18,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 23,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 24,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 25,
+				"strength": 70.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 26,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 27,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 28,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 29,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 30,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 31,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 33,
+				"strength": 144.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 34,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 35,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 36,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 39,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 40,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 41,
+				"strength": 96.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 42,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 43,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 44,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 45,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 46,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 47,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 49,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 50,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 51,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 52,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 53,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 10,
+				"strength": 303.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 11,
+				"strength": 339.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 12,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 13,
+				"strength": 116.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 14,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 15,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 16,
+				"strength": 194.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 17,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 18,
+				"strength": 144.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 19,
+				"strength": 214.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 20,
+				"strength": 87.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 21,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 22,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 23,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 24,
+				"strength": 188.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 25,
+				"strength": 106.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 26,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 27,
+				"strength": 73.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 28,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 29,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 30,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 31,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 32,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 33,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 34,
+				"strength": 102.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 35,
+				"strength": 80.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 36,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 37,
+				"strength": 104.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 38,
+				"strength": 93.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 39,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 40,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 41,
+				"strength": 115.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 42,
+				"strength": 177.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 43,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 44,
+				"strength": 73.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 45,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 46,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 47,
+				"strength": 137.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 48,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 49,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 50,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 51,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 52,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 53,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 11,
+				"strength": 234.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 12,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 13,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 14,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 15,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 16,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 17,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 18,
+				"strength": 81.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 19,
+				"strength": 166.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 20,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 21,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 22,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 23,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 24,
+				"strength": 112.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 25,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 26,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 27,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 28,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 29,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 30,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 31,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 32,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 33,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 34,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 35,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 36,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 37,
+				"strength": 103.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 38,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 39,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 40,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 41,
+				"strength": 71.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 42,
+				"strength": 133.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 43,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 44,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 45,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 47,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 48,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 49,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 50,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 51,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 53,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 12,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 13,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 14,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 15,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 16,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 17,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 18,
+				"strength": 110.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 19,
+				"strength": 128.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 20,
+				"strength": 86.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 21,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 22,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 23,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 24,
+				"strength": 109.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 25,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 26,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 27,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 28,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 29,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 30,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 31,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 32,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 33,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 34,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 35,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 36,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 37,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 38,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 39,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 40,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 41,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 42,
+				"strength": 150.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 43,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 44,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 45,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 47,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 48,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 49,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 50,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 51,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 53,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 13,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 14,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 15,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 16,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 18,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 19,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 21,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 23,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 24,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 25,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 26,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 27,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 28,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 29,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 31,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 32,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 33,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 34,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 35,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 36,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 37,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 39,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 40,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 41,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 42,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 43,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 44,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 46,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 47,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 49,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 50,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 51,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 52,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 53,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 14,
+				"strength": 101.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 15,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 16,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 17,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 18,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 19,
+				"strength": 107.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 20,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 21,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 22,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 23,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 24,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 25,
+				"strength": 57.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 26,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 27,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 28,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 29,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 30,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 31,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 32,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 33,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 34,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 35,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 36,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 38,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 39,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 40,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 41,
+				"strength": 94.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 42,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 43,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 44,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 45,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 46,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 47,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 48,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 49,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 50,
+				"strength": 79.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 51,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 52,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 53,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 15,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 18,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 19,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 20,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 21,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 22,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 23,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 24,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 25,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 26,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 27,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 28,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 29,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 30,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 31,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 32,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 33,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 34,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 35,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 36,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 38,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 39,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 40,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 41,
+				"strength": 89.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 42,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 44,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 45,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 46,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 47,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 48,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 49,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 50,
+				"strength": 68.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 51,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 52,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 53,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 16,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 17,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 18,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 19,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 22,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 23,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 24,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 25,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 26,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 27,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 28,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 29,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 30,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 31,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 32,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 33,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 34,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 35,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 36,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 39,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 40,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 41,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 42,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 43,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 44,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 46,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 47,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 48,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 49,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 50,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 51,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 17,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 18,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 19,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 22,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 23,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 24,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 25,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 26,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 27,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 29,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 30,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 31,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 33,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 34,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 35,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 36,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 38,
+				"strength": 111.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 39,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 41,
+				"strength": 92.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 42,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 44,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 47,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 48,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 49,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 50,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 51,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 53,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 18,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 19,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 22,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 23,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 24,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 25,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 26,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 27,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 29,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 30,
+				"strength": 173.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 31,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 34,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 35,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 38,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 39,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 41,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 42,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 43,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 45,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 46,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 47,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 48,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 19,
+				"strength": 115.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 20,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 21,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 22,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 23,
+				"strength": 70.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 24,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 25,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 26,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 27,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 28,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 29,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 30,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 31,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 32,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 33,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 34,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 35,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 37,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 38,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 39,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 41,
+				"strength": 75.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 42,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 43,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 44,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 45,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 46,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 47,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 48,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 49,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 50,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 51,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 20,
+				"strength": 112.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 21,
+				"strength": 121.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 22,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 23,
+				"strength": 72.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 24,
+				"strength": 78.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 25,
+				"strength": 62.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 26,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 27,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 28,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 29,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 30,
+				"strength": 43.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 31,
+				"strength": 105.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 32,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 33,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 34,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 35,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 36,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 37,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 38,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 39,
+				"strength": 123.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 40,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 41,
+				"strength": 98.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 42,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 43,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 44,
+				"strength": 109.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 45,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 46,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 47,
+				"strength": 125.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 48,
+				"strength": 51.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 49,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 50,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 51,
+				"strength": 98.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 21,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 22,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 24,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 26,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 27,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 31,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 33,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 34,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 35,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 37,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 39,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 41,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 42,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 43,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 45,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 47,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 48,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 49,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 51,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 22,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 23,
+				"strength": 42.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 25,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 27,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 28,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 31,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 34,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 38,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 40,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 41,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 42,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 44,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 47,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 48,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 51,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 24,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 26,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 27,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 28,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 31,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 34,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 35,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 37,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 38,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 39,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 40,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 41,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 42,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 43,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 44,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 47,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 48,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 51,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 24,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 25,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 26,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 27,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 29,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 30,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 31,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 32,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 33,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 34,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 35,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 36,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 37,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 38,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 39,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 40,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 41,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 42,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 43,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 44,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 46,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 47,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 48,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 49,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 50,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 51,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 52,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 53,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 26,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 27,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 28,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 29,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 30,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 31,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 32,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 33,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 34,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 35,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 37,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 38,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 39,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 41,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 42,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 43,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 44,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 45,
+				"strength": 76.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 46,
+				"strength": 73.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 47,
+				"strength": 242.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 48,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 49,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 50,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 51,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 53,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 26,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 27,
+				"strength": 38.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 28,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 29,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 30,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 31,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 32,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 33,
+				"strength": 137.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 34,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 35,
+				"strength": 76.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 36,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 37,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 38,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 39,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 40,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 41,
+				"strength": 105.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 42,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 43,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 44,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 45,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 46,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 47,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 48,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 49,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 50,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 51,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 52,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 53,
+				"strength": 41.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 27,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 28,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 29,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 30,
+				"strength": 154.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 31,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 32,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 33,
+				"strength": 37.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 34,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 35,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 37,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 39,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 41,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 42,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 43,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 44,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 46,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 47,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 50,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 51,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 52,
+				"strength": 88.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 28,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 29,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 30,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 31,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 32,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 33,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 34,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 35,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 36,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 37,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 38,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 39,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 41,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 42,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 43,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 44,
+				"strength": 58.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 46,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 47,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 48,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 49,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 50,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 51,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 52,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 53,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 29,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 31,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 32,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 33,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 34,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 35,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 36,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 39,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 40,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 41,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 42,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 44,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 47,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 50,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 51,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 52,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 53,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 30,
+				"strength": 64.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 31,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 33,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 34,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 35,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 36,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 37,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 38,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 39,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 40,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 41,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 42,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 44,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 46,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 47,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 48,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 50,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 53,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 31,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 33,
+				"strength": 70.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 34,
+				"strength": 65.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 35,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 36,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 39,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 40,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 41,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 42,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 43,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 44,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 46,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 47,
+				"strength": 59.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 48,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 50,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 52,
+				"strength": 124.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 53,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 32,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 33,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 34,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 35,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 36,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 37,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 38,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 39,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 41,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 42,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 43,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 44,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 47,
+				"strength": 60.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 48,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 49,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 50,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 51,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 33,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 34,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 35,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 39,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 40,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 41,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 43,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 44,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 45,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 47,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 49,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 50,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 51,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 34,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 35,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 36,
+				"strength": 52.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 37,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 39,
+				"strength": 69.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 40,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 41,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 42,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 43,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 44,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 45,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 46,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 47,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 49,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 50,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 51,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 52,
+				"strength": 54.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 53,
+				"strength": 67.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 35,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 37,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 38,
+				"strength": 66.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 39,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 41,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 42,
+				"strength": 81.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 43,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 44,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 45,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 46,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 47,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 48,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 49,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 50,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 51,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 52,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 36,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 37,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 38,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 39,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 40,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 41,
+				"strength": 91.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 42,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 43,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 44,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 45,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 46,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 47,
+				"strength": 46.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 48,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 49,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 50,
+				"strength": 61.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 51,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 53,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 39,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 40,
+				"strength": 31.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 41,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 44,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 46,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 47,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 50,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 52,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 53,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 39,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 41,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 42,
+				"strength": 84.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 43,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 47,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 48,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 49,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 51,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 39,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 41,
+				"strength": 77.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 42,
+				"strength": 83.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 44,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 47,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 48,
+				"strength": 24.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 49,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 50,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 40,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 41,
+				"strength": 72.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 42,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 43,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 44,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 47,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 48,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 49,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 50,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 51,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 52,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 53,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 41,
+				"strength": 84.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 42,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 44,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 46,
+				"strength": 48.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 47,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 50,
+				"strength": 22.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 51,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 52,
+				"strength": 35.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 53,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 42,
+				"strength": 33.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 43,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 44,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 45,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 46,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 47,
+				"strength": 102.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 48,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 49,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 50,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 51,
+				"strength": 44.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 52,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 53,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 43,
+				"strength": 39.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 45,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 47,
+				"strength": 47.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 48,
+				"strength": 34.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 49,
+				"strength": 63.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 50,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 51,
+				"strength": 18.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 53,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 44,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 45,
+				"strength": 19.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 47,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 49,
+				"strength": 40.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 50,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 51,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 53,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 45,
+				"strength": 21.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 46,
+				"strength": 32.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 47,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 48,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 49,
+				"strength": 23.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 50,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 51,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 46,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 47,
+				"strength": 49.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 48,
+				"strength": 27.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 50,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 51,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 53,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 47,
+				"strength": 56.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 50,
+				"strength": 26.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 51,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 53,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 48,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 49,
+				"strength": 28.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 50,
+				"strength": 29.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 51,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 53,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 49,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 50,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 51,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 50,
+				"strength": 45.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 51,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 53,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 51,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 52,
+				"strength": 53.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 53,
+				"strength": 30.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 53,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 53,
+				"strength": 8.0000
+			}
+		]
+	}
+}
