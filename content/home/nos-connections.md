@@ -13,9 +13,9 @@ design:
   columns: '1'
 ---
 
-Le LANDIS Hub Québec travaille sur un grand nombre de sujets en interaction les un avec les autres.
+Les membres du LANDIS Hub Québec travaillent sur un grand nombre de sujets de recherche en interaction les uns avec les autres.
 
-Gràce à notre carte basée sur la littérature liés au modèle LANDIS-II, vous pouvez voir comment ces sujets se lient les uns aux autres !
+**Découvrez ces liens avec notre carte interactive !**
 
 <iframe
   allowfullscreen="true"
