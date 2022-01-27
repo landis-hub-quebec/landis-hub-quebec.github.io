@@ -12,3 +12,12 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-brand, .nav-item {
   font-family: Roboto !important;
 }
+// Helps insert icons inline
+.emoji-icon {
+  font-size: inherit;
+}
+.emoji-icon > img,
+.emoji-icon > svg {
+  height: 2em;
+  display: inline-block;
+}

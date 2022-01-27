@@ -5,7 +5,7 @@ headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 # I put a "n" between the emojis, as it would work without it.
-title: "<font class=emoji>🔗</font> <br> Nos connections"
+title: "<span class = emoji-icon><img src=\"/uploads/link.svg\" /></span>  <br> Nos connections"
 subtitle:
 weight: 25  # section position on page
 design:

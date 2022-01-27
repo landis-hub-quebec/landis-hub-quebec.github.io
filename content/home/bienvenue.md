@@ -7,7 +7,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: <font class=emoji>👋</font> Bienvue chez le LANDIS Hub Québec !
+title: "<span class = emoji-icon><img src=\"/uploads/waving hand.svg\" /></span> Bienvue chez le LANDIS Hub Québec !"
 hero_media: callToActionLogo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

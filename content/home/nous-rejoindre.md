@@ -4,7 +4,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: "<font class=emoji>🤝</font> Nous rejoindre"
+title: "<span class = emoji-icon><img src=\"/uploads/handshake.svg\" /></span> Nous rejoindre"
 subtitle:
 weight: 30  # section position on page
 design:
@@ -21,7 +21,7 @@ GitHub est une plate-forme centrale dans le développement de logiciels aujourd'
 
 Sur GitHub, un *repository* (ou "dépôt" en français) est un lieu ou l'on dépose les fichiers liés à un projet particulier, et ou il est possible de discuter ensemble de celui-ci. Le *repository* d'accueil du LANDIS Hub Québec est l'endroit indiqué pour venir vous présenter, ainsi que pour prendre conscience des discussions existantes entre utilisateurs.ices.
 
-## **<font class=emoji>3️⃣</font> Félicitations, vous êtes avec nous <font class=emoji>🎊🎉</font> !**
+## **<font class=emoji>3️⃣</font> Félicitations, vous êtes avec nous <span class = emoji-icon><img src="/uploads/confetti ball.svg" /><img src="/uploads/party popper.svg" /></span> !**
 
 En vous rendant sur l'onglet "[Discussions](https://github.com/landis-hub-quebec/hub/discussions)", vous pourrez accéder à un forum pour discuter avec les autres membres du groupe.
 

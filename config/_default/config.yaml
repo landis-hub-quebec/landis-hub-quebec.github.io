@@ -5,7 +5,7 @@
 
 title: Landis Hub Québec # Website name
 baseurl: 'https://landis-hub-quebec.github.io/' # Website URL
-copyright: '© {year} Clément Hardy' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} [Clément Hardy](https://klemet.github.io)<br><br>Most icons are from the <a href="https://openmoji.org">OpenMoji projet</a>. The logo of the group uses icons from <a href="https://openmoji.org">OpenMoji</a> too.' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

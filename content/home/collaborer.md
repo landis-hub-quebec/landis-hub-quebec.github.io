@@ -1,10 +1,12 @@
 ---
 # Warning : Remember to put emojis between <font class=emoji>👋</font> in order to make emojis compatible with old browsers.
+# However, some browsers still display the wrong emojis; this can be very ugly. When needed, put emojis in .svg format in the static/upload folder,
+# and link them with the class emoji-icon with a <span class = emoji-icon></span> tag. 
 widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: "<font class=emoji>✒️</font> Collaborer avec nous"
+title: "<span class = emoji-icon><img src=\"/uploads/pen.svg\" /></span> Collaborer avec nous"
 subtitle:
 weight: 40  # section position on page
 design:

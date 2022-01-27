@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 200
 
-title: <font class=emoji>☎</font> Contact
+title: "<span class = emoji-icon><img src=\"/uploads/telephone.svg\" /></span> Contact"
 subtitle:
 
 content:
