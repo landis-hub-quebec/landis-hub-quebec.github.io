@@ -22,11 +22,11 @@ design:
 
 ## **<span class = emoji-icon><img src="/uploads/handshake.svg" /></span> Un groupe**
 
-**Le LANDIS Hub Quebec est un groupe de chercheurs.euses** qui utilisent le modèle spatialement explicite [LANDIS-II](https://www.landis-ii.org/), ou d'autres modèles similaires ([SPaDES](https://spades.predictiveecology.org/)).<br><br>
+**Le LANDIS Hub Quebec est un groupe de chercheurs.euses** qui utilisent le modèle spatialement explicite [LANDIS-II](https://www.landis-ii.org/), ou d'autres modèles et meta-packages comme [LandR](https://landr.predictiveecology.org) ou [SpaDES](https://spades.predictiveecology.org/).<br><br>
 
 ## **<span class = emoji-icon><img src="/uploads/computer disk.svg" /></span> Des modèles**
 
-L'avenir et l'évolution des paysages forestiers autour du monde sont aujourd'hui questionnés à cause des incertitudes liées aux changements globaux. **LANDIS-II et d'autres modèles similaires permettent d'adresser ces questions**, car ils servent à modéliser les paysages forestiers sur plusieurs siècles.<br><br>
+L'avenir et l'évolution des paysages forestiers autour du monde sont aujourd'hui questionnés à cause des incertitudes liées aux changements globaux. **LANDIS-II, LandR et SpaDES permettent d'adresser ces questions**, car ils servent à modéliser les paysages forestiers sur plusieurs siècles.<br><br>
 
 ## **<span class = emoji-icon><img src="/uploads/world map.svg" /></span> Un futur**
 

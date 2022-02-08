@@ -24,6 +24,6 @@ cta:
 
 <br>
 
-*Vous utilisez, ou pensez à utiliser LANDIS ou des modèles équivalents (SpaDES) dans des paysages québécois ?*
+*Vous utilisez, ou pensez à utiliser des modèles comme LANDIS, LandR ou SpaDES dans des paysages québécois ?*
 
 **N'attendez plus !**
