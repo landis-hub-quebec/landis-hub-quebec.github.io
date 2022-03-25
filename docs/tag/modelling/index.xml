@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling | Landis Hub Québec</title>
+    <link>https://landis-hub-quebec.github.io/tag/modelling/</link>
+      <atom:link href="https://landis-hub-quebec.github.io/tag/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modelling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-ca</language><copyright>© 2022 [Clément Hardy](https://klemet.github.io)
+Most icons are from the OpenMoji projet. The logo of the group uses icons from OpenMoji too.</copyright>
+    <image>
+      <url>https://landis-hub-quebec.github.io/media/icon_hu8b0c3040a4f3972f843d3269e8175d4a_69682_512x512_fill_lanczos_center_3.png</url>
+      <title>Modelling</title>
+      <link>https://landis-hub-quebec.github.io/tag/modelling/</link>
+    </image>
+    
+    <item>
+      <title>(Post-doc) Modélisation des sapinières à bouleau jaune à l&#39;échelle du Québec</title>
+      <link>https://landis-hub-quebec.github.io/post/job_template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://landis-hub-quebec.github.io/post/job_template/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Location :&lt;/strong&gt; Montréal, Québec&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contact :&lt;/strong&gt; &lt;a href=&#34;mailto:yan.boulanger@canada.ca&#34;&gt;yan.boulanger@canada.ca&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Description :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

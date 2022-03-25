@@ -11,7 +11,7 @@ copyright: '© {year} [Clément Hardy](https://klemet.github.io)<br><br>Most ico
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
