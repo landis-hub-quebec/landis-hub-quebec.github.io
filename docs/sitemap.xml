@@ -4,6 +4,8 @@
   <url>
     <loc>https://landis-hub-quebec.github.io/admin/</loc>
   </url><url>
+    <loc>https://landis-hub-quebec.github.io/post/</loc>
+  </url><url>
     <loc>https://landis-hub-quebec.github.io/authors/</loc>
   </url><url>
     <loc>https://landis-hub-quebec.github.io/categories/</loc>
@@ -15,7 +17,5 @@
     <loc>https://landis-hub-quebec.github.io/publication_types/</loc>
   </url><url>
     <loc>https://landis-hub-quebec.github.io/tags/</loc>
-  </url><url>
-    <loc>https://landis-hub-quebec.github.io/post/</loc>
   </url>
 </urlset>
